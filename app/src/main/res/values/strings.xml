@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="BtVuelta">Vuelta</string>
+    <string name="Vuelta">Vuelta</string>
+    <string name="BtReiniciar">Reiniciar</string>
+    <string name="TVFit">Fit App</string>
+    <string name="_0">0</string>
+    <string name="todo">TODO</string>
+</resources>
